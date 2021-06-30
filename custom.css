@@ -8,7 +8,7 @@
   --ct-text-size: 16px;
   --ct-line-height: 1.5;
   --ls-main-content-max-width: 1200px;
-  --ls-font-family: "Noto Sans SC", sans-serif;
+  --ls-font-family: IBM Plex Sans, sans-serif;
 
   --ct-background: var(--ls-primary-background-color);
 
@@ -24,7 +24,7 @@
   --ct-page-title-color: var(--ct-bold-color);
   --ct-page-title-font-size: 36px;
   --ct-page-title-line-height: 40px;
-  --ct-page-title-font-weight: 900;
+  --ct-page-title-font-weight: 400;
   --ct-page-title-font-style: normal;
 
   --ct-heading-font-family: var(--ct-page-title-font-family);
@@ -66,7 +66,7 @@ body {
 }
 
 :root.is-mac {
-  --ls-font-family: Overpass, "Noto Sans SC", sans-serif;
+  --ls-font-family: IBM Plex Sans, "Noto Sans SC", sans-serif;
 }
 
 /* Container fix */
