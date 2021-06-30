@@ -4,7 +4,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@100;300;400;500;700;900&display=swap");
 
 :root {
-  --ct-page-title-font-family: Asap, "Noto Sans SC", sans-serif;
+  --ct-page-title-font-family: IBM Plex Sans, "Noto Sans SC", sans-serif;
   --ct-text-size: 16px;
   --ct-line-height: 1.5;
   --ls-main-content-max-width: 1200px;
@@ -29,7 +29,7 @@
 
   --ct-heading-font-family: var(--ct-page-title-font-family);
   --ct-heading-font-size: 25px;
-  --ct-heading-font-weight: 700;
+  --ct-heading-font-weight: 300;
   --ct-heading-font-style: normal;
 
   --ct-header-height: 2.4em;
